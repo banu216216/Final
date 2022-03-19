@@ -1,0 +1,53 @@
+ATM_ID,ATM_ADDRESS,ATM_DAILY_USERS,ATM_CASHLOAD,ATM_CASHLOAD_FREQ,ATM_CARDLESS_WITHDRAWL,ATM_DEPOSIT_FACILITY,ATM_DAILY_DEPOSIT,ATM_DAILY_WITHDRAWL,ATM_TYPE
+1000,"G-20-21 PP Tower Netaji shubhash Palce Pitampura -110034, New Delhi",47,272600,1,Yes,No,,218080,Branch
+1001,"323, Vardhman Crown Plaza, Sector 18, Dwarka",46,225400,1,No,Yes,4500,157780,Standalone
+1002,"Shop No 4/5/6, APM Mall, Sattadhar Char Rasta,Thaltej Branch,Ahmedabad  ",139,778400,2,No,No,,467040,Branch
+1003,"Central Arcade, DLF City, Phase-II, Gurgaon - 122002, Haryana",49,289100,5,No,Yes,55000,231280,Branch
+1005,"29-30, D.b. Gupta Market, Karol Bagh, New Delhi",194,873000,1,No,Yes,62700,611100,Standalone
+1006,"SCF 67 and 68, Sainik Colony, Near DAV Public School, Sector 49, Faridabad - 121001, Haryana",178,890000,3,No,Yes,46000,623000,Branch
+1007,"Chintamani Park, Mumbai Goa Highway, Kankavali.",89,373800,2,Yes,Yes,12800,261660,Branch
+1008,"10/2459, Beadonpura, Karol Bagh",167,951900,3,No,Yes,2100,571140,Standalone
+1009,"Flat No. Ugf-9a & 9b, Arunachal Building, 19, Barakhamba Road",192,1036800,1,Yes,No,,829440,Standalone
+1010,"Plot No. 83/1 Sahodarpur,Nh 96, Allahabad Faizabad Rd, Baba Ganj Pratapgarh",94,517000,5,No,Yes,1800,361900,Branch
+1011,"B-12 Sector-18, Noida201301, Uttar Pradesh",180,954000,1,Yes,No,,763200,Branch
+1012,"Railway Road, Doraha, Dist. Ludhiana.",181,1067900,5,No,Yes,32000,854320,Branch
+1013,"Suite 150, Vardhman Crown Mall, Sec19, Dwarka",94,545200,2,Yes,Yes,13800,381640,Standalone
+1014,"SCO - 2, BASEMENT FEROZE GANDHI MARKET, LUDHIANA",116,568400,3,No,Yes,1500,454720,Standalone
+1015,"A-34, Guru Nanak Marg, Moti Doongri scheme,Tilak nagar, Raja Park, Jaipur ",41,180400,1,No,No,,144320,Branch
+1016,"N-12, 3rd Floor, Sector 18, Noida",147,617400,4,Yes,No,,493920,Standalone
+1017,"Baba Makbul Shah Road, Main bazaar, Ajnala-143105, Dist - Amritsar, Punjab",169,912600,3,Yes,No,,730080,Branch
+1018,"R- 1/88, Raj Nagar, Ghaziabad, Uttar Pradesh.  ",58,295800,4,Yes,Yes,34400,236640,Branch
+1020,"Plot No. 9, First Floor Amberhai Extension, Sector 19, Dwarka",194,970000,5,Yes,Yes,29400,679000,Standalone
+1021,"3/401,tikonia chowk,nainital road ,haldwan",75,352500,5,No,Yes,32700,211500,Branch
+1022,"D7, Ugf, Sector 3, Noida",42,172200,1,Yes,Yes,41900,103320,Standalone
+1023,7C Avas Vikas Delhi Haridwar road  ,196,882000,3,Yes,No,,617400,Branch
+1024,"204, Natraj Appartment, 67, Ip Extention",165,660000,5,No,Yes,9000,462000,Standalone
+1025,"212, Ocean Plaza, Sector 18, Noida",158,916400,1,Yes,No,,549840,Standalone
+1026,"3 & 4, First Floor Gali Number 2, West Guru Angad Nagar, Laxmi Nagar",69,338100,2,Yes,No,,270480,Standalone
+1027,"239-241, Vardhman Crown Mall, Secrtor 19, Dwarka",43,232200,5,No,Yes,50000,139320,Standalone
+1028,"Escorts Corporate Centre, 15/5, mathura road, faridabad",145,609000,2,No,No,,426300,Standalone
+1029,"B-21-22, RDC, raj Nagar, Ghaziabad",47,211500,3,No,No,,126900,Standalone
+1030,"Plot No. 414/1, Road No. 4, Sachin GIDC, Surat - 394230",138,759000,3,Yes,No,,531300,Branch
+1031,"Subhash Palace, Lucknow Road, Lalganj, Rai Bareli - 229206",188,864800,1,No,Yes,3600,605360,Branch
+1032,"SCO 129-130-131,Sector 9- C,Chandigarh - 160017",130,585000,1,Yes,No,,468000,Branch
+1033,"223, Durga Tower, 2nd floor, rdc rajnagar, Ghaziabad]",176,880000,3,No,No,,528000,Standalone
+1034,"306, 3rd Floor, New Delhi House, 27, Barakhamba Road, Cp",48,268800,5,No,No,,161280,Standalone
+1035,"C-127, Sector 2, 2 Floor, Noida",75,330000,4,Yes,No,,198000,Standalone
+1036,"215B, Esan Towers, Mettupalayam Road, Thudiyalur, Coimbatore - 641034,",99,524700,1,No,No,,367290,Branch
+1037,"35,36,37 Commercila CumResidential Complex, Nehru Nagar",104,447200,1,No,No,,268320,Branch
+1038,SF 12 sixth floor wave silver tower sector 18 noida ,64,345600,3,No,Yes,5500,276480,Standalone
+1039,29-30 DB gupta market karol bagh ,64,288000,4,Yes,Yes,28500,230400,Standalone
+1040,"5-6-7, Parsvanath Plaza, Court Road, Saharanpur",99,485100,5,Yes,Yes,10100,291060,Branch
+1041,"Swapneer Complex, Paddapukur More, Baruipur",140,588000,4,Yes,No,,470400,Branch
+1042,"plot 108, udyog vihar phase 1 ",126,630000,4,No,Yes,1000,378000,Standalone
+1043,712 roots tower district centre laxmi nagar,164,852800,1,Yes,Yes,10100,596960,Standalone
+1044,"Tagore Villa , Chakrata Road, Dehradun -248001",174,904800,3,Yes,Yes,8000,633360,Branch
+1045,Shop No. 8; Ground Floor | Narain Tower; Sanjay Place | Agra ,94,488800,5,No,Yes,2500,391040,Standalone
+1046,"Nai Sarak, Bilara-342602 Tehsil-Bilara",198,1148400,1,No,Yes,500,689040,Branch
+1047,"Nohra No 74 and 76, Lakkad Mandi",66,389400,5,Yes,Yes,34800,311520,Branch
+1048,"247 Travel Holidays  , F 12, Amaltas Flats,   Behind Fun Republic, S.G. Highway Satellite Road,  Ahmedabad - 380015. Gujarat, India.                                                                                                        ",63,264600,4,Yes,No,,211680,Standalone
+1049,F / 70; Malik Pur; Opposite Tagor Park; Near Model Town; PO Kingsway Camp; New Delhi – 110009.,141,831900,2,Yes,No,,499140,Standalone
+1050,"1C- 102, NIT, Faridabad, Haryana",76,364800,5,No,No,,255360,Standalone
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
